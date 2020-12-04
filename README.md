@@ -1,6 +1,10 @@
 # Tour_campground
 Landing page with option to write about the place visited by visitors 
 
+![Image 1](https://github.com/kaushikdeepak/Tour_campground/blob/master/instances/Screenshot%202020-12-04%2016.49.47.png)  
+![Image 2](https://github.com/kaushikdeepak/Tour_campground/blob/master/instances/Screenshot%202020-12-04%2016.50.16.png) 
+![Image 3](https://github.com/kaushikdeepak/Tour_campground/blob/master/instances/Screenshot%202020-12-04%2016.51.15.png)
+
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
 
 YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of Colt Steele's web dev course on udemy.  
